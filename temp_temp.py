@@ -1,3 +1,3 @@
-text = '56'
-print(text[0:-1])
+text = '5622'
+print(*range(-1, 1))
 
